@@ -1,0 +1,96 @@
+{
+    "users": [
+        {
+          "id": 1,
+          "nama": "Dzulbihar",
+          "alamat": "Demak",
+          "umur": 21,
+          "nohp": "081225131504"
+        },
+        {
+          "id": 2,
+          "nama": "Najwa",
+          "alamat": "Tasikmalaya",
+          "umur": 15,
+          "nohp": "085378297187"
+        },
+        {
+          "id": 3,
+          "nama": "Fernando",
+          "alamat": "Semarang",
+          "umur": 27,
+          "nohp": "089278173817"
+        },
+        {
+          "id": 4,
+          "nama": "Rendi",
+          "alamat": "Jakarta",
+          "umur": 27,
+          "nohp": "089278173817"
+        },
+        {
+          "id": 5,
+          "nama": "Fernando",
+          "alamat": "Semarang",
+          "umur": 27,
+          "nohp": "089278173817"
+        },
+        {
+          "id": 6,
+          "nama": "Fernando",
+          "alamat": "Semarang",
+          "umur": 27,
+          "nohp": "089278173817"
+        },
+        {
+          "id": 7,
+          "nama": "Fernando",
+          "alamat": "Semarang",
+          "umur": 27,
+          "nohp": "089278173817"
+        },
+        {
+          "id": 8,
+          "nama": "Fernando",
+          "alamat": "Semarang",
+          "umur": 27,
+          "nohp": "089278173817"
+        },
+        {
+          "id": 9,
+          "nama": "Fernando",
+          "alamat": "Semarang",
+          "umur": 27,
+          "nohp": "089278173817"
+        },
+        {
+          "id": 10,
+          "nama": "Fernando",
+          "alamat": "Semarang",
+          "umur": 27,
+          "nohp": "089278173817"
+        },
+        {
+          "id": 11,
+          "nama": "Fernando",
+          "alamat": "Semarang",
+          "umur": 27,
+          "nohp": "089278173817"
+        },
+        {
+          "id": 12,
+          "nama": "Fernando",
+          "alamat": "Semarang",
+          "umur": 27,
+          "nohp": "089278173817"
+        },
+        {
+          "id": 13,
+          "nama": "Fernando",
+          "alamat": "Semarang",
+          "umur": 27,
+          "nohp": "089278173817"
+        }
+        
+      ]
+}
